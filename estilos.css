@@ -1,0 +1,26 @@
+.titulo{
+    text-align: center;
+    color: rgba(247, 245, 245, 0.904);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2cm;
+    
+}
+
+body{
+    background-image: url(img/calacas.jpg);
+    background-position: center
+    center;
+}
+
+#map{
+    height: 100%;
+    width: 100%;
+    
+
+}
+body{
+    background-color: rgb(196, 171, 61);
+}
+ 
+
+
